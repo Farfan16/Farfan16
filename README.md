@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋🧔🥋, my name's Farrel</h1>
+<h1 align="left">Hello there 👋🧔🥋, my name's Farrel</h1>
 <p align="left">A frontend developer (but curious and like to try anything else hehe) with 2 years of experience in web development. Right now I'm unemployed, and while I'm looking for a job, I like to learn other tech stuff outside of the frontend development.</p>
 
 - 🌱 I’m currently learning **Go**
